@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: radha
+Build-Jdk: 14.0.1
+Implementation-Title: Java project
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: my.java.project
+Implementation-Vendor: Pivotal Software, Inc.
+Created-By: Maven Integration for Eclipse
+
